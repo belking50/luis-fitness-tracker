@@ -1,0 +1,19 @@
+{
+  "name": "Opto Elite Fitness",
+  "short_name": "Opto Elite",
+  "description": "Entrenamiento, nutrición y progreso en una sola app.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9ede8",
+  "theme_color": "#071713",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
