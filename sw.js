@@ -1,4 +1,4 @@
-const CACHE = "opto-elite-v6";
+const CACHE = "opto-elite-v7";
 const APP_SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", event => {
